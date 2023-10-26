@@ -1,0 +1,40 @@
+/*
+    RESET 
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*
+    GENERALE 
+*/
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1,h3{
+    font-family: 'Abril Fatface', serif;
+}
+
+/*
+    HEADER 
+*/
+
+h1{
+    text-align: center;
+    color: rgb(229, 49, 112);
+    margin: 30px 0 60px 0;
+}
+
+/*
+    MAIN 
+*/
+
+main > p{
+    text-align: center;
+}
